@@ -1,0 +1,22 @@
+{
+  "wheel_id": 501,
+  "structure": "umbrella",
+  "slug": "webdesignsydneyaustralia-101",
+  "project": "web-design-sydney-glossary-a24285ecf65416d73aa2451b689824c02a75",
+  "parent_t1_ref": "webdesignsydneyaustralia-150",
+  "node_role": "feeder",
+  "money_target": "webdesignsydneyaustralia.com.au",
+  "primary_kw": "web design sydney glossary",
+  "intended_url": "https://sitesau.github.io/webdesignsydneyaustralia-101/",
+  "tier": "T2",
+  "writeback_nonce": "b940e982cc0c6927",
+  "links": [
+    {
+      "target_url": "https://vercel-cloudsites-hub.vercel.app/sites-01/web-design-sydney-planning-guide-ba7c443fa0d78ce7ebf4c75cfa6/",
+      "anchor": "web design sydney planning guide explained",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
